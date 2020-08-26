@@ -1,0 +1,157 @@
+Project documentation
+<---- javadoc command: ---->
+/opt/jdk1.8.0_131/bin/javadoc
+-sourcepath
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib
+-source
+1.8
+-classpath
+/home/pmarques/bluej/lib/bluejcore.jar:/home/pmarques/bluej/lib/junit-4.11.jar:/home/pmarques/bluej/lib/hamcrest-core-1.3.jar:/home/pmarques/bluej/lib/lang-stride.jar:/home/pmarques/bluej/lib/userlib/pi4j-core.jar:/home/pmarques/bluej/lib/userlib/pi4j-service.jar:/home/pmarques/bluej/lib/userlib/pi4j-gpio-extension.jar:/home/pmarques/bluej/lib/userlib/pi4j-device.jar:/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib
+-d
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+graphLib
+-windowtitle
+graphLib
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+http://download.oracle.com/javase/8/docs/api/
+graph2D
+<---- end of javadoc command ---->
+Loading source files for package graph2D...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_131
+Building tree for all the packages and classes...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Arc.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/ComponentImage.html...
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:103: warning - @param argument "wi:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:103: warning - @param argument "he:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "x1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "y1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "x2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "y2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:511: warning - @param argument "lW:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:488: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:488: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:488: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:488: warning - @param argument "pW:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:668: warning - @returns is an unknown tag.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:668: warning - @param argument "ix:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:668: warning - @param argument "iy:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:606: warning - @param argument "miX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:606: warning - @param argument "maX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:606: warning - @param argument "miY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:606: warning - @param argument "maY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:755: warning - @param argument "e:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:127: warning - @param argument "g:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:701: warning - @param argument "mX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:701: warning - @param argument "xX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:701: warning - @param argument "mY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:701: warning - @param argument "xY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:629: warning - @returns is an unknown tag.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:629: warning - @param argument "rx:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:629: warning - @param argument "ry:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:575: warning - @param argument "miX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:575: warning - @param argument "maX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:575: warning - @param argument "miY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:575: warning - @param argument "maY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/ComponentImage.java:773: warning - @param argument "boolean" is not a parameter name.
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/DrawedElement.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/DrawedString.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/FilledArc.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/FilledPolygonal.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Graph2D.html...
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:148: warning - @param argument "mX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:148: warning - @param argument "xX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:148: warning - @param argument "mY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:148: warning - @param argument "xY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "mX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "xX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "mY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "xY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "wWidth:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:164: warning - @param argument "wHeight:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "mX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "xX:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "mY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "xY:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "wWidth:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "wHeight:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "bckCol:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:87: warning - @param argument "t:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "w:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "h:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "sA:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:421: warning - @param argument "aA:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "w:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "h:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "sA:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "aA:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:399: warning - @param argument "th:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:315: warning - @param argument "x1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:315: warning - @param argument "y1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:315: warning - @param argument "x2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:315: warning - @param argument "y2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "x1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "y1:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "x2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "y2:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:301: warning - @param argument "th:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:494: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:494: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:494: warning - @param argument "w:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:494: warning - @param argument "h:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "w:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "h:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:480: warning - @param argument "th:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:285: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:285: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:276: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:276: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:276: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:276: warning - @param argument "th:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:347: warning - @param argument "xCoords:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:347: warning - @param argument "yCoords:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:328: warning - @param argument "xCoords:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:328: warning - @param argument "yCoords:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:328: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:328: warning - @param argument "th:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:530: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:530: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/graph2D/Graph2D.java:530: warning - @param argument "w:" is not a parameter name.
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Line.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Plotter.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Point.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/Polyline.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/package-frame.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/package-summary.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/graph2D/package-tree.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/constant-values.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/serialized-form.html...
+Building index for all the packages and classes...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/overview-tree.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/index-all.html...
+Building index for all classes...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/allclasses-frame.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/allclasses-noframe.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/index.html...
+Generating /home/pmarques/Dropbox/assignatures/graphLibCmpl/graphLib/doc/help-doc.html...
+100 warnings
